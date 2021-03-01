@@ -1,1 +1,1 @@
- https://kola-art.github.io/rsschool-cv/
+ https://kola-art.github.io/rsschool-cv/cv
