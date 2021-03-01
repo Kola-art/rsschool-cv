@@ -68,4 +68,77 @@
                     </li>
                     </ol>
             </div>
-            
+             <div>
+                <h3 class="abot-me-title">Work Experience</h3>
+                <!-- company1-->
+                <div>
+                <h4 class="profesional-title">Front-End Developer <span class="profesional-company">Freelance </h4></span>
+                    <span class="profesion-time">
+                        September 2020 - up to now <span class="divider">|</span> Ukraine
+                    </span>
+                
+                </div>
+
+              <!-- company2-->
+              <div>
+                <h4 class="profesional-title">Navigation Officer  <span class="profesional-company">Ukrainian NAVY</span>   </h4>
+                    <span class="profesion-time">
+                        March 2016 - September 2020 <span class="divider">|</span> Ukraine
+                    </span>
+                
+                        <ul class="profesion-dutyes">
+                            <li class="profesion-dutyes-item">Prepare navigation and communication department to sail.</li>
+                            <li class="profesion-dutyes-item">Provide safety navigation at sea.</li>
+                            
+                        </ul>
+                </div>  
+                <!-- company3-->
+                
+                
+            </div>
+            <!-- Education-->
+            <div>
+                <h3 class="abot-me-title">Education</h3>
+                <div>
+                    <span class="education">Odessa National Maritime Academy</span><br/>
+                    <span class="education-curs">Navigation</span><br>
+                    <span class="profesion-time">
+                        March 2014 - February 2016 <span class="divider">|</span> Ukraine
+                    </span><br>
+                    <span class="education">Naval Academy</span><br/>
+                    <span class="education-curs">Navigation</span><br>
+                    <span class="profesion-time">
+                        September 2011 - March 2014 <span class="divider">|</span> Ukraine
+                </div>
+
+                
+
+                <h3 class="abot-me-title">Courses</h3>
+                <div>   
+                    <span class="education">RS SCHOOL </span><br/>
+                    <span class="education-curs">JavaScript Front-End Developer</span><br>
+                    <span class="profesion-time">
+                        FEBRUARY 2021 - up to now <span class="divider">|</span> Ukraine
+                    </span><br>
+                </div>
+
+                <h3 class="abot-me-languages">Languages</h3>
+                <div class="languages">
+                    <div class="languages-block">
+                        <span class="language">Ukrainian </span><br/>
+                        <span class="language-level">Native</span><br>
+                    </div>
+                    <div class="languages-block">
+                        <span class="language">English</span><br/>
+                        <span class="language-level">Intermediate</span><br>
+                    </div>
+                    <div class="languages-block">
+                        <span class="language">Russian</span><br/>
+                        <span class="language-level">Fluent</span><br>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
